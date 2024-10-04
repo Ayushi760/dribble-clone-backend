@@ -1,0 +1,15 @@
+{
+  "name": "dribbble-backend",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.41"
+  }
+}

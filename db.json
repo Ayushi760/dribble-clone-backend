@@ -1,0 +1,831 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Helen Tran",
+      "tags": [
+        "Leadership",
+        "Product",
+        "UX"
+      ],
+      "designation": "Lead Product Designer",
+      "image": "https://cdn.dribbble.com/uploads/47181/original/1e3a73a174484bef522b620c401cd00a.mp4?1685645427"
+    },
+    {
+      "id": "2",
+      "name": "Victa Wille",
+      "tags": [
+        "Web",
+        "Ui",
+        "Mobile"
+      ],
+      "designation": "Digital Designer",
+      "image": "https://cdn.dribbble.com/uploads/47175/original/1fb34610061a95a007ac5e7b1dc53138.jpeg?1685645183&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "3",
+      "name": "Elif Kamesoglu",
+      "tags": [
+        "Brand",
+        "Illustration",
+        "Web"
+      ],
+      "designation": "Brand Designer",
+      "image": "https://cdn.dribbble.com/uploads/47176/original/9b22cd83bde1809976bec0722d1f8923.jpeg?1685645213&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "4",
+      "name": "Chris Owens",
+      "tags": [
+        "Illustration",
+        "Mobile",
+        "UI"
+      ],
+      "designation": "Creative Director",
+      "image": "https://cdn.dribbble.com/uploads/47177/original/3986915be548424a5d36657f2b034ead.jpeg?1685645250&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "5",
+      "name": "Vladimir Gruev",
+      "tags": [
+        "Brand",
+        "Design"
+      ],
+      "designation": "Digital Designer",
+      "image": "https://cdn.dribbble.com/uploads/47173/original/Vladimir_Gruev.png?1689174896&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "6",
+      "name": "Jesse Showalter",
+      "tags": [
+        "UI",
+        "Web",
+        "Mobile"
+      ],
+      "designation": "Design Educator",
+      "image": "https://cdn.dribbble.com/uploads/47180/original/1def7b9fb30832c4af4353b325d9c3af.mp4?1685645402"
+    },
+    {
+      "id": "7",
+      "name": "Aurelein Salomon",
+      "tags": [
+        "Mobile",
+        "Product",
+        "UX"
+      ],
+      "designation": "Design Director",
+      "image": "https://cdn.dribbble.com/uploads/47170/original/cd3266dde4f00a5d6a509c7375ddaecd.png?1685644840&format=webp&resize=546x680&vertical=center"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Ayushi",
+      "username": "ayushi16",
+      "email": "ayushisaxena1610@gmail.com",
+      "password": "$2a$10$3EMAyU0XCYWnGXRepy63TOgADFSCp0fgrkm3niNqZzq092IxeB5Iy"
+    },
+    {
+      "id": "2",
+      "fullname": "Shraddha",
+      "username": "shraddha14",
+      "email": "shraddha@gmail.com",
+      "password": "$2a$10$RxVKSKDsBHgg2vmlCT0FuOpkuWWt/A7x5HIllpjzzWSvsZ.hnuGoC"
+    },
+    {
+      "id": 3,
+      "fullname": "Neeraj",
+      "username": "neeraj30",
+      "email": "neeraj@gmail.com",
+      "password": "$2a$10$OgUZ6vki/3nySObmUs8gb.Czvd.coeNzOW9NBjPWiBihmhU5ju.pi"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Web Design",
+      "designs": [
+        {
+          "id": 1,
+          "title": "UI/UX Design for AppFlowly CRM - AI collaborative workspace",
+          "designer": {
+            "name": "Afterglow",
+            "email": "hello@afterglow.ui",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/2146089/avatars/normal/f4341ad93ec3f7993925167d4b10a96a.png?1652815707"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16894840/file/original-36d478d7e2a8889d9baa060292dced85.jpg?resize=800x600&vertical=center",
+            "https://cdn.dribbble.com/userupload/16894843/file/original-6ac42c719cbabd643a42d9ad969d6c53.mp4",
+            "https://cdn.dribbble.com/userupload/16894842/file/original-73ff1ab4cc34e32c15999937939a58a0.jpg?resize=1905x1429"
+          ],
+          "description": "We’re a design and development creative studio that specializes in simple, useful, and beautiful solutions",
+          "tags": [
+            "UX/UI",
+            "Web Design",
+            "Branding"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Poster Design",
+          "designer": {
+            "name": "Charlie Green",
+            "email": "charlie.green@example.com",
+            "isCompany": false,
+            "image": "https://example.com/images/charlie-green.jpg"
+          },
+          "media":[],
+          "description": "A vibrant poster design for a music festival.",
+          "tags": [
+            "Graphic Design",
+            "Poster",
+            "Event"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Portfolio Website",
+          "designer": {
+            "name": "Alice Smith",
+            "email": "alice.smith@example.com",
+            "isCompany": false,
+            "image": "https://example.com/images/alice-smith.jpg"
+          },
+          "media":[],
+          "description": "A beautiful portfolio website design.",
+          "tags": [
+            "Portfolio",
+            "Web Design",
+            "Personal"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Corporate Site",
+          "designer": {
+            "name": "Global Corp",
+            "email": "contact@globalcorp.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/global-corp-logo.jpg"
+          },
+          "media":[],
+          "description": "A professional corporate website layout.",
+          "tags": [
+            "Corporate",
+            "Business",
+            "Web Design"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Blog Template",
+          "designer": {
+            "name": "Mark Brown",
+            "email": "mark.brown@example.com",
+            "isCompany": false,
+            "image": "https://example.com/images/mark-brown.jpg"
+          },
+          "media":[],
+          "description": "A clean blog template design.",
+          "tags": [
+            "Blog",
+            "Template",
+            "Web Design"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Branding",
+      "designs": [
+        {
+          "id": 6,
+          "title": "Sport Cars🏎️🔥",
+          "designer": {
+            "name": "catalyst",
+            "email": "catalyst@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/1787323/avatars/normal/386abe46684b97977de4ab3d4ee954d6.jpg?1584893831"
+          },
+         "media":[
+          "https://cdn.dribbble.com/userupload/16899681/file/original-c9a5a6486d668c016b609bf453ccd476.png?resize=320x240&vertical=center",
+          "https://cdn.dribbble.com/userupload/16899682/file/original-661bcb2c0327d7676ac35c0b3140f8bf.png?resize=752x",
+          "https://cdn.dribbble.com/userupload/16899683/file/original-0fa469907ed650e6424a4b3ef3abd7d8.png?resize=752x",
+          "https://cdn.dribbble.com/userupload/16899684/file/original-d7b187afdf39c7ee50c4b6943b95437c.png?resize=752x",
+          "https://cdn.dribbble.com/userupload/16899685/file/original-682430b73d40c3c82fc7f573751c2e6b.png?resize=752x"
+         ],
+          "description": "Need awesome illustrations and logos? just message me or email me for any project inquiries or commision works 😊",
+          "tags": [
+            "we create beautiful stuff for your projects."
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Social Media App",
+          "designer": {
+            "name": "Creative Agency",
+            "email": "contact@creativeagency.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/creative-agency-logo.jpg"
+          },
+          "media":[],
+          "description": "A sleek design for a social media application.",
+          "tags": [
+            "we create beautiful stuff for your projects."
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Fitness Tracker",
+          "designer": {
+            "name": "FitTech Solutions",
+            "email": "info@fittech.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/fittech-logo.jpg"
+          },
+          "media":[],
+          "description": "An intuitive fitness tracking app design.",
+          "tags": [
+            "Mobile",
+            "Fitness",
+            "Health"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Recipe App",
+          "designer": {
+            "name": "Chef's World",
+            "email": "hello@chefsworld.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/chefs-world-logo.jpg"
+          },
+          "media":[],
+          "description": "A user-friendly recipe app for food lovers.",
+          "tags": [
+            "Mobile",
+            "Recipes",
+            "Food"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Travel Planner",
+          "designer": {
+            "name": "TravelMate",
+            "email": "support@travelmate.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/travelmate-logo.jpg"
+          },
+          "media":[],
+          "description": "An all-in-one travel planning app design.",
+          "tags": [
+            "Mobile",
+            "Travel",
+            "Planning"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "designs": [
+        {
+          "id": 11,
+          "title": "Carousel Visual Identity",
+          "designer": {
+            "name": "Heyo",
+            "email": "info@Heyo.com",
+            "isCompany": true,
+            "logo": "https://cdn.dribbble.com/users/414979/avatars/small/6a3fb4b20c29dce831a74dc7dbf591c4.png?1695741732"
+          },
+         "media":[
+          "https://cdn.dribbble.com/userupload/16902639/file/original-8004425e6a74da6fc8f64f7e22d2c6bc.png?resize=450x338&vertical=center",
+          "https://cdn.dribbble.com/userupload/16902640/file/original-2a4dcc33fca72fdc82fc1db1f6cbc03e.png?resize=752x"
+         ],
+          "description": "Excited to share the visual identity I worked on for Carousel. Carousel is a vehicle subscription service whose vision is for everyone to have access to a car. They believe cars symbolize freedom and everyone should have a path towards that. ",
+          "tags": []
+        },
+        {
+          "id": 12,
+          "title": "Business Card",
+          "designer": {
+            "name": "Design Studio LLC",
+            "email": "info@designstudio.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/design-studio-logo.jpg"
+          },
+          "media":[],
+          "description": "A professional business card design.",
+          "tags": [
+            "Graphic Design",
+            "Branding",
+            "Business"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Event Flyer",
+          "designer": {
+            "name": "Event Planners Co.",
+            "email": "contact@eventplanners.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/event-planners-logo.jpg"
+          },
+          "media":[],
+          "description": "A creative flyer design for an upcoming event.",
+          "tags": [
+            "Graphic Design",
+            "Flyer",
+            "Event"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Magazine Cover",
+          "designer": {
+            "name": "Emily White",
+            "email": "emily.white@example.com",
+            "isCompany": false,
+            "image": "https://example.com/images/emily-white.jpg"
+          },
+         "media":[],
+          "description": "An eye-catching magazine cover design.",
+          "tags": [
+            "Graphic Design",
+            "Magazine",
+            "Cover"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Logo Design",
+          "designer": {
+            "name": "LogoMasters",
+            "email": "info@logomasters.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/logomasters-logo.jpg"
+          },
+         "media":[],
+          "description": "A unique logo design for a new brand.",
+          "tags": [
+            "Graphic Design",
+            "Logo",
+            "Branding"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Animation",
+      "designs": [
+        {
+          "id": 16,
+          "title": "Motion Animation",
+          "designer": {
+            "name": "theosm",
+            "email": "theosem.taylor@example.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/12138976/avatars/normal/78bb9f2b46d07172e646bcb9a6caefb2.png?1656139641"
+          },
+          "media":[
+            "https://cdn.dribbble.com/userupload/16783187/file/original-41a4d12839a9c9d0e052f0550404c3a6.jpg?resize=2048x1536",
+            "https://cdn.dribbble.com/userupload/16896879/file/original-b4c6c383d6000be0d502c52a8de73d90.mp4"
+          ],
+          "description": "",
+          "tags": [
+            "We Create OSM Design Solution For The Brand."
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Character Design",
+          "designer": {
+            "name": "Creative Mindz",
+            "email": "info@creativemindz.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/creative-mindz-logo.jpg"
+          },
+          "media":[],
+          "description": "A unique character design for a game.",
+          "tags": [
+            "Illustration",
+            "Character",
+            "Game"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Landscape Art",
+          "designer": {
+            "name": "Mike Brown",
+            "email": "mike.brown@example.com",
+            "isCompany": false,
+            "image": "https://example.com/images/mike-brown.jpg"
+          },
+          "media":[],
+          "description": "A beautiful landscape illustration.",
+          "tags": [
+            "Illustration",
+            "Landscape",
+            "Art"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Abstract Art",
+          "designer": {
+            "name": "Art Studio XYZ",
+            "email": "contact@artstudioxyz.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/art-studio-xyz-logo.jpg"
+          },
+         "media":[],
+          "description": "An abstract art illustration.",
+          "tags": [
+            "Illustration",
+            "Abstract",
+            "Art"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Comic Strip",
+          "designer": {
+            "name": "Sam Lee",
+            "email": "sam.lee@example.com",
+            "isCompany": false,
+            "image": "https://example.com/images/sam-lee.jpg"
+          },
+          "media":[],
+          "description": "A fun comic strip illustration.",
+          "tags": [
+            "Illustration",
+            "Comic",
+            "Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product Design",
+      "designs": [
+        {
+          "id": 21,
+          "title": "Smartwatch Design",
+          "designer": {
+            "name": "Innovatech",
+            "email": "info@innovatech.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/innovatech-logo.jpg"
+          },
+          "media":[],
+          "description": "A sleek smartwatch design.",
+          "tags": [
+            "Product Design",
+            "Tech",
+            "Wearable"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Furniture Design",
+          "designer": {
+            "name": "HomeDesigns",
+            "email": "contact@homedesigns.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/homedesigns-logo.jpg"
+          },
+          "media":[],
+          "description": "A modern furniture design concept.",
+          "tags": [
+            "Product Design",
+            "Furniture",
+            "Home"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Bottle Design",
+          "designer": {
+            "name": "EcoBottle Co.",
+            "email": "info@ecobottle.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/ecobottle-logo.jpg"
+          },
+          "media": [],
+          "description": "An eco-friendly bottle design.",
+          "tags": [
+            "Product Design",
+            "Eco-Friendly",
+            "Sustainability"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Gadget Design",
+          "designer": {
+            "name": "Gadgets R Us",
+            "email": "support@gadgets.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/gadgets-logo.jpg"
+          },
+          "media": [],
+          "description": "A futuristic gadget design.",
+          "tags": [
+            "Product Design",
+            "Tech",
+            "Gadgets"
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Kitchen Appliance",
+          "designer": {
+            "name": "Kitchen Creatives",
+            "email": "info@kitchencreatives.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/kitchen-creatives-logo.jpg"
+          },
+          "media": [],
+          "description": "A smart kitchen appliance design.",
+          "tags": [
+            "Product Design",
+            "Kitchen",
+            "Appliance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Animation",
+      "designs": [
+        {
+          "id": 26,
+          "title": "2D Animation",
+          "designer": {
+            "name": "Animation Studios",
+            "email": "info@animationstudios.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/animation-studios-logo.jpg"
+          },
+          "media": [],
+          "description": "A fun 2D animation for kids.",
+          "tags": [
+            "Animation",
+            "2D",
+            "Kids"
+          ]
+        },
+        {
+          "id": 27,
+          "title": "3D Animation",
+          "designer": {
+            "name": "3D Creatives",
+            "email": "contact@3dcreatives.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/3d-creatives-logo.jpg"
+          },
+          "media": [],
+          "description": "An engaging 3D animation for commercials.",
+          "tags": [
+            "Animation",
+            "3D",
+            "Commercial"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "Stop Motion",
+          "designer": {
+            "name": "Motion Magic",
+            "email": "hello@motionmagic.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/motion-magic-logo.jpg"
+          },
+          "media": [],
+          "description": "A creative stop motion animation.",
+          "tags": [
+            "Animation",
+            "Stop Motion",
+            "Creative"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Motion Graphics",
+          "designer": {
+            "name": "Dynamic Animations",
+            "email": "support@dynamicanimations.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/dynamic-animations-logo.jpg"
+          },
+          "media": [],
+          "description": "An exciting motion graphics video.",
+          "tags": [
+            "Animation",
+            "Graphics",
+            "Video"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Character Animation",
+          "designer": {
+            "name": "Animators Guild",
+            "email": "contact@animatorsguild.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/animators-guild-logo.jpg"
+          },
+          "media": [],
+          "description": "A character animation for an animated series.",
+          "tags": [
+            "Animation",
+            "Character",
+            "Series"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion Design",
+      "designs": [
+        {
+          "id": 31,
+          "title": "Summer Collection",
+          "designer": {
+            "name": "Fashion House",
+            "email": "info@fashionhouse.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/fashion-house-logo.jpg"
+          },
+          "media": [],
+          "description": "A trendy summer collection of outfits.",
+          "tags": [
+            "Fashion",
+            "Collection",
+            "Summer"
+          ]
+        },
+        {
+          "id": 32,
+          "title": "Winter Wear",
+          "designer": {
+            "name": "Winter Styles",
+            "email": "contact@winterstyles.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/winter-styles-logo.jpg"
+          },
+          "media": [],
+          "description": "Warm and stylish winter wear designs.",
+          "tags": [
+            "Fashion",
+            "Winter",
+            "Wear"
+          ]
+        },
+        {
+          "id": 33,
+          "title": "Athletic Wear",
+          "designer": {
+            "name": "Athletic Gear Co.",
+            "email": "info@athleticgear.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/athletic-gear-logo.jpg"
+          },
+          "media": [],
+          "description": "Comfortable and functional athletic wear.",
+          "tags": [
+            "Fashion",
+            "Athletic",
+            "Wear"
+          ]
+        },
+        {
+          "id": 34,
+          "title": "Evening Gowns",
+          "designer": {
+            "name": "Elegance Couture",
+            "email": "info@elegancecouture.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/elegance-couture-logo.jpg"
+          },
+          "media": [],
+          "description": "Stunning evening gowns for special occasions.",
+          "tags": [
+            "Fashion",
+            "Gowns",
+            "Evening"
+          ]
+        },
+        {
+          "id": 35,
+          "title": "Casual Wear",
+          "designer": {
+            "name": "Casual Corner",
+            "email": "contact@casualcorner.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/casual-corner-logo.jpg"
+          },
+          "media": [],
+          "description": "Relaxed and trendy casual wear designs.",
+          "tags": [
+            "Fashion",
+            "Casual",
+            "Wear"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interior Design",
+      "designs": [
+        {
+          "id": 36,
+          "title": "Modern Living Room",
+          "designer": {
+            "name": "Interior Creatives",
+            "email": "info@interiorcreatives.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/interior-creatives-logo.jpg"
+          },
+          "media": [],
+          "description": "A stylish and modern living room design.",
+          "tags": [
+            "Interior Design",
+            "Living Room",
+            "Modern"
+          ]
+        },
+        {
+          "id": 37,
+          "title": "Minimalist Bedroom",
+          "designer": {
+            "name": "Zen Spaces",
+            "email": "contact@zenspaces.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/zen-spaces-logo.jpg"
+          },
+          "media": [],
+          "description": "A calming minimalist bedroom design.",
+          "tags": [
+            "Interior Design",
+            "Bedroom",
+            "Minimalist"
+          ]
+        },
+        {
+          "id": 38,
+          "title": "Cozy Kitchen",
+          "designer": {
+            "name": "Cozy Homes",
+            "email": "info@cozyhomes.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/cozy-homes-logo.jpg"
+          },
+          "media": [],
+          "description": "A warm and inviting kitchen design.",
+          "tags": [
+            "Interior Design",
+            "Kitchen",
+            "Cozy"
+          ]
+        },
+        {
+          "id": 39,
+          "title": "Office Space",
+          "designer": {
+            "name": "Workspace Designs",
+            "email": "contact@workspacedesigns.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/workspace-designs-logo.jpg"
+          },
+          "media": [],
+          "description": "A modern and functional office space design.",
+          "tags": [
+            "Interior Design",
+            "Office",
+            "Modern"
+          ]
+        },
+        {
+          "id": 40,
+          "title": "Luxury Bathroom",
+          "designer": {
+            "name": "Luxury Interiors",
+            "email": "info@luxuryinteriors.com",
+            "isCompany": true,
+            "logo": "https://example.com/images/luxury-interiors-logo.jpg"
+          },
+          "media": [],
+          "description": "A luxurious bathroom design.",
+          "tags": [
+            "Interior Design",
+            "Bathroom",
+            "Luxury"
+          ]
+        }
+      ]
+    }
+  ]
+}
